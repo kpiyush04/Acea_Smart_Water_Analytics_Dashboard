@@ -1,0 +1,26 @@
+library(shiny)
+library(shinydashboard)
+
+shinyUI(
+  dashboardPage(
+    
+    # ------------  DashBoard Header ---------------
+    dashboardHeader(
+      title = "Acea Smart Water Analytics", titleWidth = 280
+      ),
+    
+    
+    # ------------  DashBoard Sidebar ---------------
+    
+    dashboardSidebar(
+      "Sidebar", collapsed = TRUE 
+      ),
+    
+    
+    # ------------  DashBoard Body ---------------
+    
+    dashboardBody(
+      "body"
+      )
+  )
+)

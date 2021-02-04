@@ -1,0 +1,25 @@
+{
+    "id": "6FC704F9",
+    "path": "~/Documents/web_app/Acea_Smart_Water_Analytics/R/server.R",
+    "project_path": "R/server.R",
+    "type": "r_source",
+    "hash": "674751194",
+    "contents": "",
+    "dirty": false,
+    "created": 1612470075463.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "cursorPosition": "25,4",
+        "scrollLine": "0",
+        "docOutlineVisible": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1612478023,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1612478023601,
+    "read_only": false,
+    "read_only_alternatives": []
+}
